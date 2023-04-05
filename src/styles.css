@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serif;
+}
+
+.input-area {
+  width: 400px;
+  height: 30px;
+  background-color: #c1ffff;
+  padding: 8px;
+}
+
+.incomplate-area {
+  width: 400px;
+  height: 100px;
+  background-color: #c6ffe2;
+}
+
+.complate-area {
+  width: 400px;
+  height: 100px;
+  background-color: #c6ffe2;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.list-row {
+  display: flex;
+  margin: 4px;
+}
+
+li {
+  display: flex;
+  :4px ;
+}
